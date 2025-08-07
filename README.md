@@ -7,6 +7,8 @@
 ![Login](Screenshot 2025-08-08 030741.png)
 ![Bookmarks](Screenshot 2025-08-08 030806.png)
 
+![Image 1](Screenshot 2025-08-08 030650.png)
+
 ### 🛠️ Tech Stack
 
 #### Frontend
