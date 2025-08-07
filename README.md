@@ -5,9 +5,9 @@
 - **Backend**: Supabase (PostgreSQL Database)
 ### Screenshots
 
-![Dashboard](Screenshot 2025-08-08 030650.png)
-![Login Screen](Screenshot 2025-08-08 030741.png)
-![Bookmarks Page](Screenshot 2025-08-08 030806.png)
+![Dashboard](./Screenshot%202025-08-08%20030650.png)
+![Login Screen](./Screenshot%202025-08-08%20030741.png)
+![Bookmarks Page](./Screenshot%202025-08-08%20030806.png)
 
 ### 🛠️ Tech Stack
 
