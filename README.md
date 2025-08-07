@@ -4,9 +4,13 @@
 - **Frontend**: [[https://linkify-mauve.vercel.app/](https://linkify-mauve.vercel.app/)]
 - **Backend**: Supabase (PostgreSQL Database)
   
-![Dashboard](Screenshot 2025-08-08 030650.png)
-![Login](Screenshot 2025-08-08 030741.png)
-![Bookmarks](Screenshot 2025-08-08 030806.png)!
+![Dashboard](./Screenshot 2025-08-08 030650.png)
+
+
+![Login](./Screenshot 2025-08-08 030741.png)
+
+
+![Bookmarks](./Screenshot 2025-08-08 030806.png)
 
 ### 🛠️ Tech Stack
 
