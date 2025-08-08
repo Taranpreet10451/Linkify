@@ -1,6 +1,6 @@
-## 📋 Project: Link Saver with Auto-Summary
+## Project: Link Saver with Auto-Summary
 
-### 🚀 Live Demo
+### Live Demo
 - **Frontend**: [[https://linkify-mauve.vercel.app/](https://linkify-mauve.vercel.app/)]
 - **Backend**: Supabase (PostgreSQL Database)
 ### Screenshots
@@ -9,7 +9,7 @@
 ![Login Screen](./Screenshot%202025-08-08%20030741.png)
 ![Bookmarks Page](./Screenshot%202025-08-08%20030806.png)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Frontend
 - **Next.js 14** - React framework with App Router
@@ -39,7 +39,7 @@
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixing
 
-### 🏗️ Architecture
+### Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐
@@ -52,7 +52,7 @@
 └─────────────────┘    └─────────────────┘
 ```
 
-### �� Setup Instructions
+### Setup Instructions
 
 #### Prerequisites
 - Node.js 20+
@@ -116,7 +116,7 @@
    - Configure RLS policies
    - Test database connection
 
-### 🧪 Testing
+### Testing
 
 #### Run Tests
 ```bash
@@ -136,7 +136,7 @@ npm run test:coverage
 - **Authentication**: Login/register flow testing
 - **Database**: CRUD operations testing
 
-### 📊 Time Spent
+### Time Spent
 
 - **Planning & Design**: 2 days
 - **Frontend Development**: 5 days
@@ -149,34 +149,34 @@ npm run test:coverage
 
 **Total Time**: ~16 days
 
-### �� Key Features
+### Key Features
 
 #### Authentication System
-- ✅ Secure user registration and login
-- ✅ JWT token-based sessions
-- ✅ Google OAuth integration
-- ✅ Password hashing with bcrypt
+- Secure user registration and login
+- JWT token-based sessions
+- Google OAuth integration
+- Password hashing with bcrypt
 
 #### Bookmark Management
-- ✅ Add, edit, delete bookmarks
-- ✅ Automatic title and favicon extraction
-- ✅ AI-powered content summarization
-- ✅ Tag-based organization
-- ✅ Search and filtering
+- Add, edit, delete bookmarks
+- Automatic title and favicon extraction
+- AI-powered content summarization
+- Tag-based organization
+- Search and filtering
 
 #### User Experience
-- ✅ Responsive design
-- ✅ Dark mode toggle
-- ✅ Drag and drop functionality
-- ✅ Real-time updates
-- ✅ Toast notifications
+- Responsive design
+- Dark mode toggle
+- Drag and drop functionality
+- Real-time updates
+- Toast notifications
 
 #### AI Integration
-- ✅ Intelligent content summarization
-- ✅ Error handling and fallbacks
-- ✅ Configurable summary length
+- Intelligent content summarization
+- Error handling and fallbacks
+- Configurable summary length
 
-### 🔒 Security Features
+### Security Features
 
 - **Password Hashing**: bcrypt with 12 salt rounds
 - **JWT Authentication**: Secure token-based sessions
@@ -185,7 +185,7 @@ npm run test:coverage
 - **SQL Injection Prevention**: Parameterized queries
 - **CORS Protection**: Cross-origin request handling
 
-### �� Screenshots
+### Screenshots
 
 #### 1. Landing Page
 - Modern, clean design with call-to-action
@@ -201,7 +201,7 @@ npm run test:coverage
 - AI summary generation
 - Tag management
 
-### �� Deployment
+### Deployment
 
 #### Vercel (Frontend)
 - **URL**: https://linkiify.vercel.app
@@ -215,14 +215,14 @@ npm run test:coverage
 - **Real-time**: Enabled
 - **Backups**: Automatic
 
-### �� Performance
+### Performance
 
 - **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
 - **First Contentful Paint**: < 1.5s
 - **Largest Contentful Paint**: < 2.5s
 - **Cumulative Layout Shift**: < 0.1
 
-### 🔧 API Endpoints
+### API Endpoints
 
 #### Authentication
 - `POST /api/auth/register` - User registration
@@ -239,7 +239,7 @@ npm run test:coverage
 #### Health Check
 - `GET /api/health` - Application health status
 
-### ��️ Database Schema
+### Database Schema
 
 #### Users Table
 ```sql
@@ -265,7 +265,7 @@ CREATE TABLE bookmarks (
 );
 ```
 
-### 🤝 Contributing
+### Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
